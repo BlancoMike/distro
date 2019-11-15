@@ -1,0 +1,48 @@
+ body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+    position: absolute;
+    top: 0;
+    right:0;
+  }
+  li {
+      display: inline;
+      margin: 9px;
+     }
+
+     a li {
+     color: darkturquoise;    
+     }
+.header {
+border: 2px solid ;
+background-color: crimson;
+
+}
+   .delivery {
+    font-size: 22px;
+     }
+    .onloading {
+      display: block    }
+  
+    h4 {
+        text-align: center;
+    }
+    
+    .info {
+        display: flex;
+        justify-content: center;
+        align-items:center;
+        margin: auto , auto;
+
+    } 
+    
+#fs-frm {
+    height: 400;
+}
